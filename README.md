@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @epeltz33
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
