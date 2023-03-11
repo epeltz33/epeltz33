@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eric
-- 🌱 I’m a full stack developer passionate about learning new technologies and building cool stuff.
+- 🌱 I’m a developer passionate about learning new technologies and building cool stuff.
 - 💼 Skills: Python, JavaScript, React, Node.js, Tailwindcss, HTML, MongoDB, Flask
 - 🤝 I'm open to collaborating on open source projects! Feel free to reach out to me at erpeltz@gmail.com.
 
