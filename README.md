@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric
 - 🌱 I’m a developer passionate about learning new technologies and building cool stuff.
-- 💼 Skills: Python, JavaScript, React, Node.js, Tailwindcss, HTML, MongoDB, Flask
+- 💼 Skills: Python, JavaScript, React, Next.js, Node.js, Tailwindcss, HTML, MongoDB, Flask
 - 🤝 Feel free to reach out to me at erpeltz@gmail.com.
 
 <!---
