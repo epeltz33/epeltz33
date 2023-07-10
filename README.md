@@ -1,9 +1,8 @@
 # Hi there 👋, I'm Eric
 > I find joy in the perpetual pursuit of knowledge.
 
-## Current Projects and Learning 🛠️
+## Learning 🛠️
 
-- 🔭 I’m currently working on [Dog_Adoptions](https://github.com/epeltz33/Dog_Adoptions.git)
 - 🌱 I’m currently learning Python, Flask, MongoDB, SQLAlchemy, React, OOP
 
 ## Let's Connect 📫
