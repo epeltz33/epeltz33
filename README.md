@@ -3,7 +3,7 @@
 
 ## Learning 🛠️
 
-- 🌱 I’m currently learning Python, Flask, MongoDB, SQLAlchemy, React, OOP
+- 🌱 I’m currently learning Python, Flask, MongoDB, SQLAlchemy, React, OOP, Java :)
 
 ## Let's Connect 📫
 
