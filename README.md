@@ -11,9 +11,6 @@
 | --- | --- |
 | erpeltz@gmail.com | [Eric Peltzman](https://www.linkedin.com/in/eric-peltzman) |
 
-## Ask Me About 💬
-
-- Any and all interesting topics in software.
 
 ## Fun Fact ⚡
 
