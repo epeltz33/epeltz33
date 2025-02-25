@@ -80,7 +80,6 @@ I'm always interested in meeting fellow developers and discussing new opportunit
 
 - 🐕 Proud dog dad
 - 🎮 I enjoy solving puzzle games to sharpen my problem-solving skills
-- 🏃‍♂️ I run 5K three times a week to keep my mind sharp
 - 📚 I'm always reading at least one technical book and one fiction book simultaneously
 
 ## 📊 GitHub Stats
