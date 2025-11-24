@@ -7,7 +7,7 @@
 I'm a passionate software developer with a love for building web applications and exploring new technologies. My journey in tech is driven by curiosity and a desire to create meaningful solutions through code.
 
 - 🔭 Currently working on building full-stack web applications
-- 🌱 Expanding my skills in Python, React, and back-end technologies
+- 🌱 Expanding my skills
 - 🤝 Open to collaborating on interesting projects and learning opportunities
 - 🎯 Goal for 2025: Contribute more to open-source projects
 
