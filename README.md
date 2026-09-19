@@ -9,7 +9,6 @@ I'm a passionate software developer with a love for building web applications an
 - 🔭 Currently working on building full-stack web applications
 - 🌱 Expanding my skills
 - 🤝 Open to collaborating on interesting projects and learning opportunities
-- 🎯 Goal for 2025: Contribute more to open-source projects
 
 ## 🛠️ Tech Stack & Tools
 
