@@ -1,96 +1,38 @@
-# Hello World! I'm Eric Peltzman 👋
+# Eric Peltzman
 
-> "I find joy in the perpetual pursuit of knowledge."
+**Entry-level software developer** · Python, Flask, PostgreSQL  
+Freehold, NJ · [StockWatch live demo](https://stockwatch-cqzs.onrender.com/demo/) · [erpeltz@gmail.com](mailto:erpeltz@gmail.com)
 
-## 👨‍💻 About Me
+I build and ship small production-shaped web apps. Recent work is **StockWatch**: a deployed Flask + PostgreSQL portfolio tracker with live market data, auth, caching, migrations, and a 220+ test suite.
 
-I'm a passionate software developer with a love for building web applications and exploring new technologies. My journey in tech is driven by curiosity and a desire to create meaningful solutions through code.
+## What I work with
 
-- 🔭 Currently working on building full-stack web applications
-- 🌱 Expanding my skills
-- 🤝 Open to collaborating on interesting projects and learning opportunities
+**Languages:** Python · SQL · Java · JavaScript  
+**Backend:** Flask · SQLAlchemy · Flask-Login · Alembic  
+**Data:** PostgreSQL · REST APIs  
+**Frontend in this stack:** Plotly Dash · Dash Bootstrap  
+**Tooling:** Git · pytest · GitHub Actions · Docker · Render
 
-## 🛠️ Tech Stack & Tools
+## Featured project
 
-<details open>
-<summary><b>Languages</b></summary>
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</details>
+### [StockWatch](https://github.com/epeltz33/StockWatch) · [Live demo](https://stockwatch-cqzs.onrender.com/demo/)
 
-<details>
-<summary><b>Frontend</b></summary>
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-</details>
+Multi-user stock watchlists and a cost-basis portfolio ledger. Flask application factory + blueprints, PostgreSQL in production (SQLite locally), Plotly Dash charts, Massive.com market-data API, layered response caching, Flask-Login (hashed passwords, CSRF), Alembic migrations, pytest + ruff in GitHub Actions, Docker Compose for local Postgres, hosted on Render.
 
-<details>
-<summary><b>Backend & Databases</b></summary>
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-</details>
+- Repo: [github.com/epeltz33/StockWatch](https://github.com/epeltz33/StockWatch)
+- Demo (sample data, no login): [stockwatch-cqzs.onrender.com/demo](https://stockwatch-cqzs.onrender.com/demo/)
 
-## 🚀 Current Learning Journey
+### [Task Tracker](https://github.com/epeltz33/Task_Tracker)
 
-I'm focusing on deepening my knowledge in:
+Dependency-free Python CLI for add / update / complete / list workflows with JSON persistence and file-error handling.
 
-- **Python**: Building robust backend applications with Flask and SQLAlchemy
-- **Java**: Developing enterprise applications and strengthening core programming concepts
-- **MySQL & Databases**: Working with relational database management systems and SQL
-- **Object-Oriented Programming**: Applying OOP principles in both Python and Java
-- **Full-Stack Integration**: Connecting all pieces into cohesive applications
+## Currently
 
-## 📂 Featured Projects
+- Tightening StockWatch (tests, deploy, README) so a hiring screen can walk the data model and cache layers.
+- Looking for an entry-level **backend or fullstack** role.
 
-<details>
-<summary><b>StockWatch</b> - Financial Market Tracking Application</summary>
-<br>
-📝 <b>Description:</b> A web application for tracking stock market data and financial metrics. Built with Python and Flask backend, featuring stock data visualization.
-<br>
-🔗 <a href="https://github.com/epeltz33/StockWatch">View Project</a>
-</details>
+## Connect
 
-<details>
-<summary><b>Task Tracker</b> - Productivity Management Tool</summary>
-<br>
-📝 <b>Description:</b> A task management application allowing users to create, organize, and track their tasks with priority levels and deadlines.
-<br>
-🔗 <a href="https://github.com/epeltz33/Task_Tracker">View Project</a>
-</details>
+[LinkedIn](https://www.linkedin.com/in/eric-peltzman) · [Email](mailto:erpeltz@gmail.com) · [GitHub](https://github.com/epeltz33)
 
-## 📫 Let's Connect
-
-I'm always interested in meeting fellow developers and discussing new opportunities!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric_Peltzman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eric-peltzman)
-[![Email](https://img.shields.io/badge/Email-erpeltz@gmail.com-red?style=flat-square&logo=gmail)](mailto:erpeltz@gmail.com)
-
-## ⚡ Fun Facts
-
-- 🐕 Proud dog dad
-- 🎮 I enjoy solving puzzle games to sharpen my problem-solving skills
-- 📚 I'm always reading at least one technical book and one fiction book simultaneously
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=epeltz33&show_icons=true&theme=radical)
-
----
-
-### 💭 Quote of the Month
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
----
-
-**Thanks for stopping by!** 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=epeltz33&show_icons=true&hide_title=true&count_private=true)
