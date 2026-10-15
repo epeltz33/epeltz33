@@ -1,7 +1,7 @@
 # Eric Peltzman
 
 **Entry-level software developer** · Python, Flask, PostgreSQL  
-Freehold, NJ · [StockWatch live demo](https://stockwatch-cqzs.onrender.com/demo/) · [erpeltz@gmail.com](mailto:erpeltz@gmail.com)
+· [StockWatch live demo](https://stockwatch-cqzs.onrender.com/demo/) · [erpeltz@gmail.com](mailto:erpeltz@gmail.com)
 
 I build and ship small production-shaped web apps. Recent work is **StockWatch**: a deployed Flask + PostgreSQL portfolio tracker with live market data, auth, caching, migrations, and a 220+ test suite.
 
