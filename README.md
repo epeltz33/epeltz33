@@ -4,8 +4,7 @@
 
 [StockWatch live demo](https://stockwatch-cqzs.onrender.com/demo/) · [LinkedIn](https://www.linkedin.com/in/eric-peltzman) · [erpeltz@gmail.com](mailto:erpeltz@gmail.com)
 
-I build small web apps and take them all the way to deployed: database, auth, tests, CI, and a live URL. I came to software from health sciences (B.S., Stockton University), which is why my current project is a SMART on FHIR app for finding gaps in patient care.
-
+I build small web apps and take them all the way to deployed: database, auth, tests, CI, and a live URL.
 Open to entry-level **backend or fullstack** roles.
 
 ## Featured project
